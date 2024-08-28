@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="C:\senai\teste de sistemas\projetos java\TestesJava\testeunit1\src\main\java\testeunit\App.java">
+</file>
+<file name="C:\senai\teste de sistemas\projetos java\TestesJava\testeunit1\src\main\java\testeunit\Calculadora.java">
+<error line="3" column="1" severity="error" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" column="3" severity="error" message="&apos;method def modifier&apos; tem um nível de indentação incorreto de 2. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="4" column="19" severity="error" message="&apos;(&apos; está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.MethodParamPadCheck"/>
+<error line="4" column="47" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="6" column="5" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 4. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" column="3" severity="error" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 2. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="10" column="3" severity="error" message="&apos;METHOD_DEF&apos; é precedido por mais do que 1 linha vazia." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="10" column="3" severity="error" message="&apos;method def modifier&apos; tem um nível de indentação incorreto de 2. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="10" column="24" severity="error" message="&apos;(&apos; está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.MethodParamPadCheck"/>
+<error line="10" column="52" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="12" column="5" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 4. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="13" column="3" severity="error" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 2. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="3" severity="error" message="&apos;method def modifier&apos; tem um nível de indentação incorreto de 2. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="30" severity="error" message="&apos;(&apos; está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.MethodParamPadCheck"/>
+<error line="15" column="50" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="16" column="5" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 4. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="17" column="3" severity="error" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 2. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="18" column="3" severity="error" message="&apos;METHOD_DEF&apos; deve ser separado da linha anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="18" column="3" severity="error" message="&apos;method def modifier&apos; tem um nível de indentação incorreto de 2. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="18" column="43" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="19" column="5" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 4. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="20" column="3" severity="error" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 2. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="20" column="3" severity="error" message="&apos;}&apos; é sucedido por mais do que 1 linha vazia." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+</file>
+<file name="C:\senai\teste de sistemas\projetos java\TestesJava\testeunit1\src\main\java\testeunit\Login.java">
+<error line="3" column="1" severity="error" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="5" column="47" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="6" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="10" column="40" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="13" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\senai\teste de sistemas\projetos java\TestesJava\testeunit1\src\main\java\testeunit\MaiorNumero.java">
+<error line="3" column="1" severity="error" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="5" column="5" severity="error" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="5" column="30" severity="error" message="&apos;(&apos; está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.MethodParamPadCheck"/>
+<error line="5" column="44" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="8" column="9" severity="error" message="&apos;if&apos; não está seguido de espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="8" column="18" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="17" column="5" severity="error" message="&apos;}&apos; é sucedido por mais do que 1 linha vazia." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="20" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\senai\teste de sistemas\projetos java\TestesJava\testeunit1\src\main\java\testeunit\Numero.java">
+<error line="3" column="1" severity="error" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="5" column="5" severity="error" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="5" column="16" severity="error" message="A variável &apos;valor&apos; deveria ser privada e ter métodos acessores." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="7" column="29" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="12" column="5" severity="error" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="12" column="25" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="13" column="9" severity="error" message="&apos;if&apos; não está seguido de espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="13" column="9" severity="error" message="A estrutura &apos;if&apos; deve utilizar &apos;{}&apos;s." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+<error line="13" column="18" severity="error" message="&apos;%&apos; não está seguido de espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="14" column="9" severity="error" message="O filho de &apos;if&apos; está no nível de indentação incorreto de 8. O nível esperado era o 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="18" column="5" severity="error" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="18" column="27" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="19" column="9" severity="error" message="A estrutura &apos;if&apos; deve utilizar &apos;{}&apos;s." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+<error line="20" column="9" severity="error" message="O filho de &apos;if&apos; está no nível de indentação incorreto de 8. O nível esperado era o 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="C:\senai\teste de sistemas\projetos java\TestesJava\testeunit1\src\test\java\testeunit\AppTest.java">
+<error line="17" column="5" severity="error" message="&apos;}&apos; é sucedido por mais do que 1 linha vazia." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="19" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\senai\teste de sistemas\projetos java\TestesJava\testeunit1\src\test\java\testeunit\CalculadoraTest.java">
+<error line="5" column="1" severity="error" message="Ordem errada para a importação &apos;org.junit.jupiter.api.DisplayName&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="8" column="1" severity="error" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="9" column="18" severity="error" message="A variável &apos;calculadora&apos; deveria ser privada e ter métodos acessores." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="13" column="35" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="14" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="14" column="16" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 15. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="14" column="50" severity="error" message="&apos;,&apos; não está seguido de espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="15" column="9" severity="error" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="19" column="34" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="20" column="13" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 12. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="20" column="26" severity="error" message="&apos;21&apos; é um número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="20" column="56" severity="error" message="&apos;7&apos; é um número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="20" column="59" severity="error" message="&apos;3&apos; é um número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="21" column="9" severity="error" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="24" column="30" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="25" column="13" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 12. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="25" column="49" severity="error" message="&apos;4&apos; é um número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="26" column="9" severity="error" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="26" column="9" severity="error" message="&apos;}&apos; é sucedido por mais do que 1 linha vazia." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+</file>
+<file name="C:\senai\teste de sistemas\projetos java\TestesJava\testeunit1\src\test\java\testeunit\LoginTest.java">
+<error line="7" column="1" severity="error" message="Ordem errada para a importação &apos;java.util.Scanner&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="9" column="1" severity="error" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="13" column="26" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="14" column="13" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 12. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="16" column="13" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 12. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="17" column="13" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 12. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="18" column="13" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 12. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="20" column="13" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 12. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="21" column="13" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 12. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="23" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="23" column="13" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 12. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="24" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="24" column="13" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 12. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="25" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="26" column="13" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 12. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="29" column="9" severity="error" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="33" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\senai\teste de sistemas\projetos java\TestesJava\testeunit1\src\test\java\testeunit\MaiorMenorTest.java">
+<error line="5" column="1" severity="error" message="Ordem errada para a importação &apos;org.junit.jupiter.api.DisplayName&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="8" column="1" severity="error" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="10" column="16" severity="error" message="A variável &apos;verifica&apos; deveria ser privada e ter métodos acessores." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="14" column="30" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="15" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="15" column="16" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 15. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="53" severity="error" message="&apos;3&apos; é um número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="15" column="54" severity="error" message="&apos;,&apos; não está seguido de espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="16" column="9" severity="error" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="20" column="30" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="21" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="21" column="16" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 15. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="21" column="54" severity="error" message="&apos;,&apos; não está seguido de espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="21" column="55" severity="error" message="&apos;4&apos; é um número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="22" column="9" severity="error" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="22" column="9" severity="error" message="&apos;}&apos; é sucedido por mais do que 1 linha vazia." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+</file>
+<file name="C:\senai\teste de sistemas\projetos java\TestesJava\testeunit1\src\test\java\testeunit\NumeroTest.java">
+<error line="3" column="47" severity="error" message="A forma de importação &apos;.*&apos; deveria ser evitada - org.junit.jupiter.api.Assertions.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+<error line="5" column="1" severity="error" message="Ordem errada para a importação &apos;org.junit.jupiter.api.Test&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="7" column="1" severity="error" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="7" column="24" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="10" column="5" severity="error" message="&apos;METHOD_DEF&apos; é precedido por mais do que 1 linha vazia." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="11" column="10" severity="error" message="Method name &apos;NegativoNumero1Test&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9_]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck"/>
+<error line="11" column="31" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="13" column="10" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 9. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="13" column="28" severity="error" message="&apos;,&apos; não está seguido de espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="14" column="10" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 9. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="18" column="5" severity="error" message="&apos;METHOD_DEF&apos; é precedido por mais do que 1 linha vazia." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="19" column="10" severity="error" message="Method name &apos;NegativoNumero2Test&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9_]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck"/>
+<error line="19" column="31" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="20" column="36" severity="error" message="&apos;-2&apos; é um número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="21" column="10" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 9. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="21" column="27" severity="error" message="&apos;,&apos; não está seguido de espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="22" column="10" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 9. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="26" column="5" severity="error" message="&apos;METHOD_DEF&apos; é precedido por mais do que 1 linha vazia." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="27" column="9" severity="error" message="Method name &apos;Numero0Test&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9_]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck"/>
+<error line="27" column="22" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="28" column="8" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 7. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="29" column="26" severity="error" message="&apos;,&apos; não está seguido de espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="32" column="4" severity="error" message="&apos;METHOD_DEF&apos; deve ser separado da linha anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="32" column="4" severity="error" message="&apos;method def modifier&apos; tem um nível de indentação incorreto de 3. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="33" column="9" severity="error" message="Method name &apos;Numero1Test&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9_]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck"/>
+<error line="33" column="22" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="34" column="7" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 6. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="35" column="7" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 6. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="36" column="7" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 6. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="38" column="7" severity="error" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 6. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="39" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="40" column="3" severity="error" message="&apos;method def modifier&apos; tem um nível de indentação incorreto de 2. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="41" column="8" severity="error" message="Method name &apos;Numero2Test&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9_]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck"/>
+<error line="41" column="21" severity="error" message="&apos;{&apos; não está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="42" column="8" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 7. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="43" column="7" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 6. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="44" column="7" severity="error" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 6. O nível esperado era o 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="46" column="3" severity="error" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 2. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+</checkstyle>
